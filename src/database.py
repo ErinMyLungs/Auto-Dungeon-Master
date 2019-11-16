@@ -1,0 +1,1 @@
+# initial database setup for pymongo
